@@ -1,0 +1,7 @@
+0 Strength
+1 Victory
+2 Like
+3 Dislike
+4 Okay
+5 Call me
+6 Enjoy
